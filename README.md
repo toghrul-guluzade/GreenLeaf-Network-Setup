@@ -99,17 +99,21 @@ For security, banners and passwords were added to all routers and switches after
 ## Testing The Network
 After successfully establishing the network at GreenLeaf Wellness Center, it gained popularity among renowned writers who used it frequently. They tested the network connectivity by pinging each other’s devices to ensure seamless communication.
 
-![Ping from Dostoyevsky’s device to Reception (Gogol’s device)](media\image1.png)
+![Ping from Dostoyevsky’s device to Reception (Gogol’s device)](GreenLeaf-Network-Setup/media
+/image1.png)
 
 Dostoyevsky tested the connection with Gogol and found it working well. However, Sharik reported issues with his internet connection, which were resolved by verifying the WiFi password.
 
-![Ping and traceroute to Sharik’s default gateway](media\image2.png)
-![Ping and traceroute to Pushkin’s device](media\image3.png)
+![Ping and traceroute to Sharik’s default gateway](GreenLeaf-Network-Setup/media
+/image2.png
+)
+![Ping and traceroute to Pushkin’s device](GreenLeaf-Network-Setup/media
+/image3.png)
 
 Sharik realized he had not entered the WiFi password correctly.
 
 
-                                -The End-
+
 ## Resources
 - Bhalodia, C. (n.d.). How to configure DHCP server | DHCP server configuration step by step [Video]. YouTube. Retrieved from [http://www.youtube.com/watch?v=ZCz9rRhzNy4](http://www.youtube.com/watch?v=ZCz9rRhzNy4)
 - NetworkChuck. (n.d.). DO NOT design your network like this!! // FREE CCNA // EP 6 [Video]. YouTube. Retrieved from [http://www.youtube.com/watch?v=wwwAXlE4OtU](http://www.youtube.com/watch?v=wwwAXlE4OtU)
