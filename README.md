@@ -99,16 +99,13 @@ For security, banners and passwords were added to all routers and switches after
 ## Testing The Network
 After successfully establishing the network at GreenLeaf Wellness Center, it gained popularity among renowned writers who used it frequently. They tested the network connectivity by pinging each other’s devices to ensure seamless communication.
 
-![Ping from Dostoyevsky’s device to Reception (Gogol’s device)](GreenLeaf-Network-Setup/media
-/image1.png)
+![Ping from Dostoyevsky’s device to Reception (Gogol’s device)](media/image1.png)
 
 Dostoyevsky tested the connection with Gogol and found it working well. However, Sharik reported issues with his internet connection, which were resolved by verifying the WiFi password.
 
-![Ping and traceroute to Sharik’s default gateway](GreenLeaf-Network-Setup/media
-/image2.png
+![Ping and traceroute to Sharik’s default gateway](media/image2.png
 )
-![Ping and traceroute to Pushkin’s device](GreenLeaf-Network-Setup/media
-/image3.png)
+![Ping and traceroute to Pushkin’s device](media/image3.png)
 
 Sharik realized he had not entered the WiFi password correctly.
 
