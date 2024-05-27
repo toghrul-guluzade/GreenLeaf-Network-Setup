@@ -11,6 +11,8 @@ This project aimed to create an imaginary network for the GreenLeaf Wellness Cen
 
 To meet the requirements, I selected a Cisco 1941 router for communication with the ISP, serving as the default gateway. Two 2960-24TT switches were set up to establish two sub-networks for the Staff and Guest facilities. DHCP servers were added to each sub-network to provide IP addresses automatically.
 
+*Note: To review the project file, use Cisco Packet Tracer.*
+
 ## Network Configuration
 
 ### Router
